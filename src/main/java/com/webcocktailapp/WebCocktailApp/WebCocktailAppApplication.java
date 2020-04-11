@@ -8,6 +8,8 @@ public class WebCocktailAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebCocktailAppApplication.class, args);
+		
 	}
+	
 
 }
