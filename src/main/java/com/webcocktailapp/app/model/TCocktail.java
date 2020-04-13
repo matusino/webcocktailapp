@@ -1,4 +1,4 @@
-package model;
+package com.webcocktailapp.app.model;
 
 import java.io.Serializable;
 
